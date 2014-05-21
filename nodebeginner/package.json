@@ -1,0 +1,8 @@
+{
+  "name": "nodebeginner",
+  "description": "Just a quick refresher implementation of NodeBeginner guide of Image Uploader",
+  "version": "0.1.1",
+  "dependencies": {
+    "formidable": "*"
+  }
+}
